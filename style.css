@@ -1,4 +1,4 @@
-
+title .img {float:left;}
 /*top nav styling*/
 .topnav li {list-style-type: none;
     margin: 0;
@@ -56,4 +56,19 @@ background-color:transparent;
 text-align:center;
 
 
+}
+p {text-align: center;
+font-size:12px;
+
+}
+p a{ color:blue;
+text-decoration: none;none;
+}
+p a:hover {text-decoration: underline;
+}
+.bottomnav li{list-style-type: none;
+    display:inline;
+    font-size:12px;
+ width: 100pc;
+ background-color: grey;
 }
