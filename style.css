@@ -1,0 +1,59 @@
+
+/*top nav styling*/
+.topnav li {list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: transparent;
+    display: inline; width: auto;
+    font-size: 13px;
+    
+    }
+ li a {text-decoration: none;
+    text-align: center;
+    padding: 14px 16px;
+    color: black;
+}
+
+ li a:hover {text-decoration: underline;}
+ 
+ li .left {float: left;}
+ li .right {float:right;
+}
+li .rightsignin {float:right; 
+    background-color: blue; 
+    color:white; 
+    font-weight: bold;
+     padding: 10px;
+      border: solid;
+       border-radius: 2px;
+        font-size: 12px;
+     }
+     
+.material-icons {float: right;
+background-color:transparent;
+}
+
+
+
+/*image position and styling, size etc*/
+.img {width: auto;
+    margin: 0 auto;
+    margin-top: auto;
+    font-size: 0;
+    text-align: center;
+    padding-top: 109px;
+    
+}
+
+/*form action styling for search engine options*/
+.action { display: block;
+    border-right;
+    text-align: center;
+    
+}
+.form {display:block;
+text-align:center;
+
+
+}
